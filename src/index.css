@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.chart-canvas {
+  min-width: 200px;
+  min-height: 200px;
+  max-width: 600px;
+  max-height: 700px;
+}
